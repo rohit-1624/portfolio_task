@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** for your repo:
-
-----
-
 # 🎨 Creative Portfolio Website
 
 A modern, fully responsive **portfolio website** built with **Next.js** and **Tailwind CSS**, designed for creative professionals to showcase their work with style.
@@ -51,11 +47,3 @@ http://localhost:3000
 | Desktop View                                     | Mobile Menu                                    |
 | ------------------------------------------------ | ---------------------------------------------- |
 | ![Desktop Screenshot](./screenshots/desktop.png) | ![Mobile Screenshot](./screenshots/mobile.png) |
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-If you want, I can also make a **shorter, visually appealing GitHub README** with emojis and better typography for more attention-grabbing presentation.

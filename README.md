@@ -15,35 +15,3 @@ A modern, fully responsive **portfolio website** built with **Next.js** and **Ta
 * **Next.js** – React framework for fast, SEO-friendly pages
 * **Tailwind CSS** – Utility-first CSS framework
 * **Remix Icons** – For sleek, scalable icons
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-```
-
-2. **Install dependencies**
-
-```bash
-npm install
-```
-
-3. **Run the development server**
-
-```bash
-npm run dev
-```
-
-4. Open in your browser:
-
-```
-http://localhost:3000
-```
-
-## 📷 Screenshots
-
-| Desktop View                                     | Mobile Menu                                    |
-| ------------------------------------------------ | ---------------------------------------------- |
-| ![Desktop Screenshot](./screenshots/desktop.png) | ![Mobile Screenshot](./screenshots/mobile.png) |
